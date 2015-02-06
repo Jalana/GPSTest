@@ -51,7 +51,7 @@ public class MainActivity extends Activity {
         
         
         
-        generateRandomPoint(3);
+        generateRandomPoint(5);
     }
 	
 	private void generateRandomPoint(int limit)
